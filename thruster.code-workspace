@@ -4,5 +4,11 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"githubPullRequests.remotes": [
+			"origin",
+			"upstream",
+			"vscode://vscode.github-authentication/did-authenticate?windowId=1&code=5f930500a9ee0a7c7016&state=16ac0975-83ea-4d0a-8ba5-4297cf81e58f"
+		]
+	}
 }
